@@ -1,5 +1,3 @@
-![Screenshot from 2023-10-10 18-37-29](https://github.com/BaskaranV15/EROSION-AND-DILATION/assets/118703522/b1cbd877-6857-4ae0-bcd4-d5ced0effdb3)# EROSION-AND-DILATION
-
 ## Aim
 To implement Erosion and Dilation using Python and OpenCV.
 ## Software Required
